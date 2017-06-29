@@ -1,0 +1,8 @@
+Structure:
+	Regex parse rules to identify rules and their frequency
+	Frequency to determine the overarching format preferences
+	Regex to match and replace text to follow format
+
+Apply structure to tab/space indentation
+	Regex over line by line for this 
+	Later on, account for chain of regexes for across-line matching
